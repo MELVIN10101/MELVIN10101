@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MELVIN10101
-- 👀 I’m interested in CYBER SECURITY
+- 👀 STARTE\D MYJOURNEY TO THE CYBER WORLD
 - 🌱 I’m currently learning EVERYTHING THAT I CAN
 - 💞️ I’m looking to collaborate on CYBER PROJECTS
 - 📫 reach me @mr.melvin.redwing@gmail.com
