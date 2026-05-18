@@ -72,23 +72,49 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:mr.melvin.redwing@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
+<table>
+<tr>
 
-  <a href="https://www.linkedin.com/in/melvin-cyberops/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
+<td align="center">
+<a href="mailto:mr.melvin.redwing@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+<br>
+<sub><b>Gmail</b></sub>
+</td>
 
-  <a href="https://melvin-cyberops-portfolio.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=webflow" width="48"/>
-  </a>
+<td width="25"></td>
 
-  <a href="https://medium.com/@mr.melvin.redwing">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="48"/>
-  </a>
-</p>
+<td align="center">
+<a href="https://www.linkedin.com/in/melvin-cyberops/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+<br>
+<sub><b>LinkedIn</b></sub>
+</td>
+
+<td width="25"></td>
+
+<td align="center">
+<a href="https://melvin-cyberops-portfolio.vercel.app/">
+  <img src="https://img.icons8.com/fluency/96/domain.png" width="48"/>
+</a>
+<br>
+<sub><b>Portfolio</b></sub>
+</td>
+
+<td width="25"></td>
+
+<td align="center">
+<a href="https://medium.com/@mr.melvin.redwing">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="48" style="filter: invert(1);"/>
+</a>
+<br>
+<sub><b>Medium</b></sub>
+</td>
+
+</tr>
+</table>
 
 🐧 Fun fact: _I use Arch btw..._ and yes, I use hyprland 😉
 
