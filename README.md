@@ -10,8 +10,7 @@
 
 ## 🏆 Certifications
 
-[![AWS Cloud Quest](./Assets/aws-cloud-quest-cloud-practitioner-training-badge.png)](https://www.credly.com/badges/d60b619e-e9c0-4927-9392-4e1aa02a5598/public_url)
-
+[![AWS Cloud Quest](https://raw.githubusercontent.com/MELVIN10101/MELVIN10101/main/Assets/aws-cloud-quest-cloud-practitioner-training-badge.png)](https://www.credly.com/badges/d60b619e-e9c0-4927-9392-4e1aa02a5598/public_url)
 🤝 **Looking to Collaborate On**  
 - Cybersecurity research & open-source tools  
 - Projects involving threat detection, system forensics, and red team utilities  
