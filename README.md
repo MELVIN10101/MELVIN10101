@@ -41,24 +41,6 @@
 <b>Cloud Practitioner</b>
 </td>
 
-<td align="center">
-<a href="https://www.credly.com/badges/1d088d2f-5c8b-4061-8252-9552fb08600a/public_url">
-  <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/CISCO-introduction-to-cybersecurity.png" width="120"/>
-</a>
-<br>
-<b>C I S C O</b><br>
-<b>Intro to Cybersecurity</b>
-</td>
-
-
-<td align="center">
-<a href="https://www.credly.com/badges/01ab2128-0ff6-4a00-8fe3-71ca38dd4398/public_url">
-  <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/CISCO-introduction-to-packet-tracer.png" width="120"/>
-</a>
-<br>
-<b>C I S C O</b><br>
-<b>Packet Tracer</b>
-</td>
 </tr>
 </table>
 
