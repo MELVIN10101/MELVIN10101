@@ -70,9 +70,25 @@
 
 ---
 
-mr.melvin.redwing@gmail.com  
-LinkedIn https://www.linkedin.com/in/melvin-cyberops/ 
-https://melvin-cyberops-portfolio.vercel.app/
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:mr.melvin.redwing@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/melvin-cyberops/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+
+  <a href="https://melvin-cyberops-portfolio.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=webflow" width="48"/>
+  </a>
+
+  <a href="https://medium.com/@mr.melvin.redwing">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="48"/>
+  </a>
+</p>
 
 🐧 Fun fact: _I use Arch btw..._ and yes, I use hyprland 😉
 
