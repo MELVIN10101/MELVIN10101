@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/aws-cloud-quest-cloud-practitioner-training-badge.png" width="120"/>
 </a>
 <br>
-<b>AWS Cloud Quest</b>
+<b>AWS Cloud Quest</b><br>
 <b>Cloud Practitioner</b>
 </td>
 
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/CISCO-introduction-to-cybersecurity.png" width="120"/>
 </a>
 <br>
-<b>C I S C O</b>
+<b>C I S C O</b><br>
 <b>Intro to Cybersecurity</b>
 </td>
 </tr>
