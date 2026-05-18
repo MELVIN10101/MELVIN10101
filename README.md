@@ -1,17 +1,12 @@
-### 👋 Hey there, I’m Melvin (a.k.a @MELVIN10101)  
-#### 🛡️ Ethical Hacker | 💻 Developer | 🔍 Cybersecurity Explorer
+⚔️ MELVIN // @MELVIN10101
+> Initializing mindset...
+> Breaking assumptions...
+> Exploring systems beneath the surface...
 
----
-
-🧠 **Currently Diving Into**  
-- Ethical Hacking & Penetration Testing  
-- Red Teaming & Threat Hunting  
-- Building custom cybersecurity tools from scratch  
-- Low-level system programming (C, Rust)  
-- AI & ML in Cybersecurity  
-- Linux internals & kernel exploitation  
-
----
+🛡️ Cybersecurity
+☁️ Cloud Security
+⚙️ DevSecOps
+🧠 Generative AI
 
 
 🤝 **Looking to Collaborate On**  
@@ -22,9 +17,10 @@
 
 ---
 
-📫 **Reach Me At**  
-📧 mr.melvin.redwing@gmail.com  
-🌐 [LinkedIn https://www.linkedin.com/in/melvin-cyberops/ 
+mr.melvin.redwing@gmail.com  
+LinkedIn https://www.linkedin.com/in/melvin-cyberops/ 
+https://melvin-cyberops-portfolio.vercel.app/
+
 🐧 Fun fact: _I use Arch btw..._ and yes, I use hyprland 😉
 
 ---
