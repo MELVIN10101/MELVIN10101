@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/aws-cloud-quest-cloud-practitioner-training-badge.png" width="120"/>
 </a>
 <br>
-<b>AWS Cloud Quest</b><br>
+<b>A W S Quest</b><br>
 <b>Cloud Practitioner</b>
 </td>
 
@@ -30,9 +30,18 @@
 <b>C I S C O</b><br>
 <b>Intro to Cybersecurity</b>
 </td>
+
+
+<td align="center">
+<a href="https://www.credly.com/badges/01ab2128-0ff6-4a00-8fe3-71ca38dd4398/public_url">
+  <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/CISCO-introduction-to-packet-tracer.png" width="120"/>
+</a>
+<br>
+<b>C I S C O</b><br>
+<b>Packet Tracer</b>
+</td>
 </tr>
 </table>
-
 
 🤝 **Looking to Collaborate On**  
 - Cybersecurity research & open-source tools  
