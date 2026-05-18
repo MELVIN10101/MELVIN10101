@@ -19,6 +19,7 @@
 </a>
 <br>
 <b>AWS Cloud Quest</b>
+<b>Cloud Practitioner</b>
 </td>
 
 <td align="center">
@@ -26,7 +27,8 @@
   <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/CISCO-introduction-to-cybersecurity.png" width="120"/>
 </a>
 <br>
-<b>Introduction to Cybersecurity</b>
+<b>C I S C O</b>
+<b>Intro to Cybersecurity</b>
 </td>
 </tr>
 </table>
