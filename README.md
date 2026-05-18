@@ -14,6 +14,26 @@
 <table>
 <tr>
 <td align="center">
+<a href="https://www.linkedin.com/posts/melvin-cyberops_ceh-ethicalhacking-cybersecurity-activity-7311056262320771073-kTqG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEH4_mIBUV59w5GtTgP5NFM3vkbgJng69so">
+  <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/CEH.png" width="120"/>
+</a>
+<br>
+<b>EC-COUNCIL</b><br>
+<b>C E H</b>
+</td>
+
+
+<td align="center">
+<a href="https://www.linkedin.com/posts/melvin-cyberops_eccouncil-cpent-ceh-activity-7428322916544696320-XkNG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEH4_mIBUV59w5GtTgP5NFM3vkbgJng69so">
+  <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/CPENT.png" width="120"/>
+</a>
+<br>
+<b>EC-COUNCIL</b><br>
+<b>C P E N T</b>
+</td>
+
+  
+<td align="center">
 <a href="https://www.credly.com/badges/d60b619e-e9c0-4927-9392-4e1aa02a5598/public_url">
   <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/aws-cloud-quest-cloud-practitioner-training-badge.png" width="120"/>
 </a>
