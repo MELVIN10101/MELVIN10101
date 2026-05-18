@@ -8,9 +8,14 @@
 ⚙️ DevSecOps
 🧠 Generative AI
 
+
 ## 🏆 Certifications
 
-[![AWS Cloud Quest](https://github.com/MELVIN10101/Assets/blob/main/aws-cloud-quest-cloud-practitioner-training-badge.png)](https://www.credly.com/badges/d60b619e-e9c0-4927-9392-4e1aa02a5598/public_url)
+<a href="https://www.credly.com/badges/d60b619e-e9c0-4927-9392-4e1aa02a5598/public_url">
+  <img src="https://raw.githubusercontent.com/MELVIN10101/Assets/main/aws-cloud-quest-cloud-practitioner-training-badge.png" width="120"/>
+</a>
+
+
 🤝 **Looking to Collaborate On**  
 - Cybersecurity research & open-source tools  
 - Projects involving threat detection, system forensics, and red team utilities  
